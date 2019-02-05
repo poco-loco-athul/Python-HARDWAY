@@ -1,0 +1,17 @@
+This projects contains exercises from "Learn PYTHON3 the HARD WAY" by ZED A. SHAW
+
+In the below list I have tried to explain what each exercises is about.
+It will be helpful to refer prefered topics.
+
+* Printing
+1. First program
+2. Comment
+3. Numbers and Math
+4. Variables
+5. Embedding variables in a string
+6. Embedding variables in a string-2
+7. Changing the end of print
+8. More on .format
+9. Printing, printing, printing
+10. Escape sequences
+
