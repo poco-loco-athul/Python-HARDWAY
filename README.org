@@ -1,9 +1,9 @@
 This projects contains exercises from "Learn PYTHON3 the HARD WAY" by ZED A. SHAW
 
+These exercises migth not be exact copy. But it will contain the essence of lesson.
 In the below list I have tried to explain what each exercises is about.
 It will be helpful to refer prefered topics.
 
-* Printing
 1. First program
 2. Comment
 3. Numbers and Math
@@ -14,4 +14,18 @@ It will be helpful to refer prefered topics.
 8. More on .format
 9. Printing, printing, printing
 10. Escape sequences
+11. Input
+12. Input-2
+13. Import
+14. Import and Input
+15. Read
+16. Reading and writing
+17. Copying via .read & .write
+18. Functions
+19. Functions and Variables
+20. Functions and Files
+21. Function that returns
+
+
+
 

@@ -1,2 +1,3 @@
-\*.py~
+ex??.py~
 README.org~
+.gitignore~
