@@ -28,6 +28,7 @@ It will be helpful to refer prefered topics.
 22. Review of ex1 to ex22
 23. Encoding and decoding (DBES)
 24. Pratice
+25. More Pratice
 
 
 
