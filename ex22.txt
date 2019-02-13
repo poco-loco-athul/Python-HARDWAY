@@ -1,7 +1,7 @@
 # ex22 What Do you know So far?
 # No coding, text only
 
-# So thing we learned so far:
+# So things we learned so far:
 
 |  1. | Print in python             | print('string', variable)                        |
 |     |                             | single quotes and double quotes                  |
