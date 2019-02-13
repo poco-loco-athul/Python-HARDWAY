@@ -1,3 +1,5 @@
 ex??.py~
 README.org~
 .gitignore~
+*.txt~
+__pycache__
