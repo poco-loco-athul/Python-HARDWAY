@@ -30,7 +30,9 @@ It will be helpful to refer prefered topics.
 24. Pratice
 25. More Pratice
 26. Test1
-27. Logic
+27. Boolean expressions
+28. Boolean practice
+
 
 
 
