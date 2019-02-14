@@ -38,5 +38,6 @@ It will be helpful to refer prefered topics.
 32. for-loop and lists
 33. while-loop
 34. List index
-35. if, def pratice
+35. if, def practice
+36. practice
 
