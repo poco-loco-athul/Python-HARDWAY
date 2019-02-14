@@ -1,0 +1,18 @@
+#Ex37: Symbol Review
+
+Less familiar keywords:
+| class   | denote that following code block is a class                                                       |
+| del     | delete the given items from the dictionary                                                        |
+| except  | if specified error occurs, execute the following code block                                       |
+| raise   | throw own exception, or re-raise previous active exception                                        |
+| finally | regardless of what happens in try-except block, finally clause is always executed                 |
+| try     | evaluate this block, if exception occurs, go to except block                                      |
+| exec()  | function that executes given string as Python code                                                |
+| global  | give variable global-scope                                                                        |
+| is      | tests for object identity, expression only true if same object                                    |
+| lambda  | create a function without giving it a name                                                        |
+| as      | assigns variable name to with-resource                                                            |
+| with    | executes following code block with a resource and automatically                                   |
+|         | cleans up the resouce afterwards, eg. opened files                                                |
+| pass    | pass statement to construct a body that does nothing. usually a placeholder for future code                                                            |
+| yield   | Return sends a specified value back to its caller whereas Yield can produce a sequence of values. |
