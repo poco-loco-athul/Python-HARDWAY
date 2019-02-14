@@ -1,0 +1,11 @@
+#Ex34: Accessing Elements of Lists
+animals = ['bear', 'python3.6', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+The animal at 1 is the 2nd animal = python3.6
+The third (3rd) animal is at 2    = peacock
+The first (1st) animal is at 0    = bear
+The animal at 3 is the 4th animal = kangaroo
+The fifth (5th) animal is at 4    = whale
+The animal at 2 is the 3rd animal = peacock
+The sixth (6th) animal is at 5    = platypus
+The animal at 4 is the 5th animal = whale
