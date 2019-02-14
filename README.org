@@ -34,6 +34,7 @@ It will be helpful to refer prefered topics.
 28. Boolean practice
 29. if-statement
 30. elif and else
+31. if practice
 
 
 
