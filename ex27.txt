@@ -1,0 +1,14 @@
+#Ex27: Memorizing Logic
+
+1. and
+2. or
+3. not
+4. !=
+5. ==
+6. >=
+7. <=
+8. True
+9. False
+
+
+

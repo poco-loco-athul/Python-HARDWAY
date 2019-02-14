@@ -30,6 +30,8 @@ It will be helpful to refer prefered topics.
 24. Pratice
 25. More Pratice
 26. Test1
+27. Logic
+
 
 
 
