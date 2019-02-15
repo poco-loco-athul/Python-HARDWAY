@@ -42,3 +42,4 @@ It will be helpful to refer prefered topics.
 36. practice
 37. Symbol Review
 38. list append, pop
+39. Dictionaries
