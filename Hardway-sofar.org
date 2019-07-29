@@ -1,0 +1,34 @@
+# ex22 What Do you know So far?
+# No coding, text only
+
+# So things we learned so far:
+
+|  1. | Print in python             | print('string', variable)                        |
+|     |                             | single quotes and double quotes                  |
+|  2. | Comment in python           | #                                                |
+|  3. | Math sybmbols               | + ,- ,/ ,*, % , <, >, <=, >=                     |
+|  4. | Variables                   |                                                  |
+|  5. | Print vairables in a string | print(f"... {variable}")                         |
+|     |                             | print("...{}".format(var))                       |
+|  6. | End of print                | print("string", end=" ")                         |
+|  7. | Print multi-line string     | print using triple triple quote                  |
+|  8. | Escape sequences            | e10, pg35                                        |
+|  9. | Input in python             | var = input(".."), var_number = int(input("..")) |
+| 10. | Modules                     |                                                  |
+| 11. | Module: sys                 | provides information about Python interpreter    |
+| 12. | Reading files               | txt = open(filename)                             |
+|     |                             | txt.read(), txt.close()                          |
+| 13. | Writing files               | ex16, pg52                                       |
+| 14. | Function                    | def (define), def fun_name():, return            |
+| 15. | Encoding and Decoding       | .encode(), .decode(), DBES                       |
+|     |                             | ex23, pg78                                       |
+| 16. | Documentation comments      | """......."""                                    |
+| 17. | Import everyting            | from filename import *                           |
+| 18. | Boolen expressions          | and, or, not, !=, ==, >=, <=, True, False        |
+| 19. | if-statement                | if, elif, else                                   |
+| 20. | for-loop                    |                                                  |
+| 21. | while-loop                  |                                                  |
+| 22. | list                        | index                                            |
+| 23. | Symbol Review               | ex37, pg128                                      |
+| 24. | Dictionaries                | ex39, pg140                                      |
+| 25. | Classes and objects         |                                                  |
